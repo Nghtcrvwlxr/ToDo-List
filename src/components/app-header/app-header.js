@@ -8,7 +8,6 @@ const AppHeader = ({toDo, done}) => {
             <h1>Todo List</h1>
             <h2>{toDo} more to do, {done} done</h2>
         </div>
-
     );
 };
 
